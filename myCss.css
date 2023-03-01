@@ -1,0 +1,40 @@
+body {
+    background-image: url("sky.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    align-items: center;
+}
+.login{
+    text-align: center;
+    width: 350px;
+    height: 350px;
+    justify-self: center;
+    justify-items: center;
+    border: 1px solid gray;
+    border-radius: 15px;
+    margin: 50px;
+    background-color:beige ;
+    
+}
+h2{
+    color: darkblue;
+    text-align: center;
+}
+input{
+    width: 200px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+
+}
+button{
+    color: darkblue;
+    margin-top: 20px;
+    border: 0,5 px;
+    border-radius: 1px solid gray;
+    text-align: center;
+}
